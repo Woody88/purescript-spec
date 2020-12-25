@@ -15,18 +15,17 @@
     "url": "git://github.com/purescript-spec/purescript-spec.git"
   },
   "dependencies": {
-    "purescript-avar": "^3.0.0",
-    "purescript-console": "^4.1.0",
-    "purescript-aff": "^5.0.0",
-    "purescript-exceptions": "^4.0.0",
-    "purescript-strings": "^4.0.0",
-    "purescript-prelude": "^4.0.0",
-    "purescript-transformers": "^4.0.0",
-    "purescript-foldable-traversable": "^4.0.0",
-    "purescript-pipes": "^6.0.0",
-    "purescript-ansi": "^5.0.0",
-    "purescript-generics-rep": "^6.0.0",
-    "purescript-fork": "^4.0.0",
-    "purescript-now": "^4.0.0"
+    "purescript-avar": "master",
+    "purescript-console": "master",
+    "purescript-aff": "master",
+    "purescript-exceptions": "master",
+    "purescript-strings": "master",
+    "purescript-prelude": "master",
+    "purescript-transformers": "master",
+    "purescript-foldable-traversable": "master",
+    "purescript-pipes": "master",
+    "purescript-ansi": "master",
+    "purescript-fork": "master",
+    "purescript-now": "master"
   }
 }
